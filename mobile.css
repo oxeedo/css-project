@@ -1,0 +1,15 @@
+@media (max-width:767px) {
+  nav ul {
+    position:fixed;
+    right:initial;
+    width:100%;
+    top:80px;
+    left:-100%;
+  }
+
+  .item {
+    width:100%;
+  }
+
+}
+

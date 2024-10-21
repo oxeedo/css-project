@@ -1,0 +1,29 @@
+In the project, a screenshot of the desktop, tablet and mobile will show what the final result should look like. This video also provides a more detailed explanation of the test:
+
+https://www.youtube.com/watch?v=3Oa65IZTvF8
+
+Requirements of the test:
+
+1. You must use CSS and HTML only. You can NOT use bootstrap, javascript or any 3rd party library.
+2. Must work in latest versions of Chrome, Firefox, Safari and Edge.
+3. Paste the HTML into an HTML validator and it must pass.
+4. Paste the HTML into achecker.ca and it must pass the WCAG.
+5. Paste the CSS into a CSS validator and it must pass.
+6. Implement the interactive effects explained in 0:00 to 0:48.  Pay attention to these behaviours:
+	- Nav links
+	- Simon Bolivar images
+  - Adding more text to Simon Bolivar items
+7. Implement the scaling effects for the desktop explained in 0:48 to 2:12.  Pay attention to these behaviours:
+  - Hero image scaling
+	- Maximum 1500px for the container of Simon Bolivar content.
+8. Implement the tablet and mobile differences explain in 2:12 to 4:00.  Pay attention to these behaviours:
+	- Navigation changes
+  - Grey overlay behaviour for tablet
+  - Simon Bolivar changes
+	
+	
+
+
+Other Notes:
+
+1. Use Arial for all fonts
